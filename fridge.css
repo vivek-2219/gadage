@@ -12,6 +12,7 @@ nav{
     background-color: black;
     overflow: hidden;
     transition: all 0.5s ease-in-out;
+    z-index: 89;
     position: sticky;
     top: 0px;
 }
